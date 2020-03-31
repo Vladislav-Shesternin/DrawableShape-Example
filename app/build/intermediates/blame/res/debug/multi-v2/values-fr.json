@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/mnt/ssd/Android/Applications/DrawableShapeExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/home/vlad/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/res/values-fr/values-fr.xml",
