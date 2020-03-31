@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.example.drawableexample;
+package com.example.drawableshapeexample;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

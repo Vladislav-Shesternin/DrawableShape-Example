@@ -666,6 +666,7 @@ drawable gradient_sweep
 drawable gradient_sweep_xy
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable line
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -753,6 +754,7 @@ id blocking
 id bottom
 id btn_corner
 id btn_gradient
+id btn_line
 id btn_linear
 id btn_oval
 id btn_radial
@@ -939,6 +941,7 @@ layout gradient_radial
 layout gradient_radial_xy
 layout gradient_sweep
 layout gradient_sweep_xy
+layout line
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

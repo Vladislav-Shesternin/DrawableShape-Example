@@ -4,6 +4,10 @@
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/drawable/ring.xml"
     },
     {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable_line.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/drawable/line.xml"
+    },
+    {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
@@ -146,6 +150,10 @@
     {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/layout_line.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/line.xml"
     },
     {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",

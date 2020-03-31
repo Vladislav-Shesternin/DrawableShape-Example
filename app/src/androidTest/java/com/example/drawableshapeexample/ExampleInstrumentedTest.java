@@ -1,4 +1,4 @@
-package com.example.drawableexample;
+package com.example.drawableshapeexample;
 
 import android.content.Context;
 
