@@ -57,4 +57,17 @@
         app:layout_constraintStart_toStartOf="@+id/btn_ring"
         app:layout_constraintTop_toBottomOf="@+id/btn_ring"
         app:layout_constraintWidth_percent="0.8" />
+
+    <Button
+        android:id="@+id/btn_stroke"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:text="stroke"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="@+id/btn_oval"
+        app:layout_constraintHeight_percent="0.1"
+        app:layout_constraintStart_toStartOf="@+id/btn_oval"
+        app:layout_constraintTop_toBottomOf="@+id/btn_oval"
+        app:layout_constraintWidth_percent="0.8" />
 </androidx.constraintlayout.widget.ConstraintLayout>
