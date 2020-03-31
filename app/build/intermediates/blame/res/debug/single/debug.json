@@ -32,6 +32,10 @@
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable_radius_all.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/drawable/radius_all.xml"
+    },
+    {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
     },
@@ -68,6 +72,10 @@
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/layout_activity_corner.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/activity_corner.xml"
+    },
+    {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
@@ -84,8 +92,16 @@
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/gradient_radial.xml"
     },
     {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/layout_radius_single.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/radius_single.xml"
+    },
+    {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable_gradient_radial_xy.xml.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/drawable/gradient_radial_xy.xml"
+    },
+    {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable_radius_single.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/drawable/radius_single.xml"
     },
     {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
@@ -126,5 +142,9 @@
     {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/layout_gradient_sweep_xy.xml.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/gradient_sweep_xy.xml"
+    },
+    {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/layout_radius_all.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/radius_all.xml"
     }
 ]

@@ -9,14 +9,17 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    Button btnGradient;
+    Button btnGradient, btnCorner;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         btnGradient = findViewById(R.id.btn_gradient);
+        btnCorner = findViewById(R.id.btn_corner);
+
         btnGradient.setOnClickListener(this);
+        btnCorner.setOnClickListener(this);
     }
 
     @Override
@@ -25,6 +28,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
             case R.id.btn_gradient:
                 intent = new Intent(this, Gradient.class);
+                break;
+            case R.id.btn_corner:
+                intent = new Intent(this, Corner.class);
                 break;
         }
         startActivity(intent);
