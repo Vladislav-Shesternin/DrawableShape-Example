@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    Button btnGradient, btnCorner, btnRing, btnOval, btnStroke;
+    Button btnGradient, btnCorner, btnRing, btnOval, btnStroke, btnLine;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,12 +20,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnRing = findViewById(R.id.btn_ring);
         btnOval = findViewById(R.id.btn_oval);
         btnStroke = findViewById(R.id.btn_stroke);
+        btnLine = findViewById(R.id.btn_line);
 
         btnGradient.setOnClickListener(this);
         btnCorner.setOnClickListener(this);
         btnRing.setOnClickListener(this);
         btnOval.setOnClickListener(this);
         btnStroke.setOnClickListener(this);
+        btnLine.setOnClickListener(this);
     }
 
     @Override
@@ -46,6 +48,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.btn_stroke:
                 setContentView(R.layout.stroke);
+                break;
+            case R.id.btn_line:
+                setContentView(R.layout.line);
                 break;
         }
         if (intent != null) startActivity(intent);
