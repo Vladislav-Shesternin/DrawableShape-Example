@@ -31,4 +31,17 @@
         app:layout_constraintStart_toStartOf="@+id/btn_gradient"
         app:layout_constraintTop_toBottomOf="@+id/btn_gradient"
         app:layout_constraintWidth_percent="0.8" />
+
+    <Button
+        android:id="@+id/btn_ring"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:text="ring"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="@+id/btn_corner"
+        app:layout_constraintHeight_percent="0.1"
+        app:layout_constraintStart_toStartOf="@+id/btn_corner"
+        app:layout_constraintTop_toBottomOf="@+id/btn_corner"
+        app:layout_constraintWidth_percent="0.8" />
 </androidx.constraintlayout.widget.ConstraintLayout>

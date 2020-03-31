@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable_ring.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/drawable/ring.xml"
+    },
+    {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
@@ -14,6 +18,10 @@
     {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/layout_ring.xml.flat",
+        "source": "/mnt/ssd/Android/Applications/DrawableExample/app/src/main/res/layout/ring.xml"
     },
     {
         "merged": "/mnt/ssd/Android/Applications/DrawableExample/app/build/intermediates/res/merged/debug/drawable_gradient_sweep.xml.flat",
